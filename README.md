@@ -20,6 +20,7 @@ Kris-Kerman,Kaaleste,39967,Estonia,Harju County,Kiili vald,Lasteaia 1-5,75401,+3
 
 Kaur,Kruve,39967,Estonia,Harju County,Tallinn,Kiili vald Lähtse Rätsepa tee 39,75416,37255513325
 
+Gustav,Rasva,39967,Estonia,Harju County,Tallinn,karukella 6-5,75403,53621009
 
 Dmitri,Balashov,39967,Estonia,Harju County,Kiili Vald,rukkilille 5-4,75403,5060925
 
